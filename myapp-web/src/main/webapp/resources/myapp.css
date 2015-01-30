@@ -1,0 +1,10 @@
+body {background: gray; }
+
+table, th, td {
+	border: 1px solid black;
+	background-color:lightblue;
+}
+.error {color: red;}
+.errorblock {position: absolute; left:50px; top:30px;
+	
+}
